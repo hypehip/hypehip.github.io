@@ -109,7 +109,7 @@ table {
 }
 .banner
 {
-	background: url(images/picjumbo-bg5.png) no-repeat fixed 0% 0%/cover;
+	background: url(images/hypehip.png) no-repeat fixed 0% 0%/cover;
 	padding: 150px 0px;
 	cursor: default;
 }
@@ -127,7 +127,7 @@ table {
 }
 .header-text h2
 {
-	font-size: 40px;
+	font-size: 90px;
 	font-weight: 600;
 	font-family: 'Raleway', sans-serif;
 	line-height: 60px;
