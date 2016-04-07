@@ -210,7 +210,7 @@ table {
 .features
 {
 	padding: 80px 0px;
-	background-color: grey;
+	background-color: white;
 	float: left;
 	width: 100%;
 }
@@ -220,7 +220,7 @@ table {
 }
 h3.text-head
 {
-	color: #fff;
+	color: black;
 	font-size: 27px;
 	font-weight: 500;
 	font-family: 'Raleway', sans-serif;
@@ -438,13 +438,13 @@ form textarea:focus
 .footer
 {
 	width: 100%;
-	background-color: #373A42;
+	background-color: grey;
 	float: left;
 	padding: 50px 0px;
 	text-align: center;
 }
 .footer p.copyright {
-    color: #585C65;
+    color: white;
     font-weight: 300;
     font-size: 14px;
 }
