@@ -110,7 +110,7 @@ table {
 .banner
 {
 	background: url(images/hypehip.png) no-repeat fixed 0% 0%/cover;
-	padding: 150px 0px;
+	padding: 10px 0px;
 	cursor: default;
 }
 .header-text
@@ -210,7 +210,7 @@ table {
 .features
 {
 	padding: 80px 0px;
-	background-color: #24436d;
+	background-color: grey;
 	float: left;
 	width: 100%;
 }
@@ -220,7 +220,7 @@ table {
 }
 h3.text-head
 {
-	color: #1c97ca;
+	color: #fff;
 	font-size: 27px;
 	font-weight: 500;
 	font-family: 'Raleway', sans-serif;
