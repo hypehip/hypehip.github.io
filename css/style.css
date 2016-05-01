@@ -45,6 +45,21 @@ q:before, q:after {
 	content: '';
 	content: none;
 }
+
+.h1
+{
+	font-family: 'Raleway', sans-serif;
+	text-decoration: none;
+	color: #1C97CA;
+	font-size: 40px;
+	font-weight: 100;
+	padding: 20px 0px;
+	display: block;
+	letter-spacing: 4px;
+	text-transform: uppercase;
+	
+}
+
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
