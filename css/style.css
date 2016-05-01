@@ -241,6 +241,16 @@ h3.text-head
 	font-family: 'Raleway', sans-serif;
 	text-align: center;
 }
+
+h3.text-subtitle
+{
+	color: black;
+	font-size: 27px;
+	font-weight: 500;
+	font-family: 'Raleway', sans-serif;
+	text-align: left;
+}
+
 p.box-desc
 {
 	color: #888;
